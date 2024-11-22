@@ -27,3 +27,7 @@ preguntamos en que repositorio estamos
 git remote -v
 
 una vez que sabemos que estamos en el remoto correspondiente agregamos commit y seleccionamos en visual la opcion commit and push
+
+
+
+link a la w3 para acceder al sus páginas: https://docs.google.com/document/d/1xGtwXFcoH2EoEA3p8qc3V_wm2o955i6ccT_4RqIlOB4/edit?usp=sharing
